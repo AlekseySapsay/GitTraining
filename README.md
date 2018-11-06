@@ -1,0 +1,2 @@
+# GitTraining
+Just for practise
